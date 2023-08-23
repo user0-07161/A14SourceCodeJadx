@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Besig</string>
+    <string name="indeterminate">Gedeeltelik gemerk</string>
+    <string name="not_selected">Nie gekies nie</string>
+    <string name="off">Af</string>
+    <string name="on">Aan</string>
+    <string name="selected">Gekies</string>
+    <string name="switch_role">Skakel oor</string>
+    <string name="tab">Oortjie</string>
+    <string name="template_percent">%1$d persent.</string>
+</resources>

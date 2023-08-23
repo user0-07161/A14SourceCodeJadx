@@ -1,0 +1,1 @@
+task ':compose:ui:ui:writeVersionFile' property 'version'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Notiek apstrāde</string>
+    <string name="indeterminate">Daļēji atzīmēta</string>
+    <string name="not_selected">Nav atlasīts</string>
+    <string name="off">Izslēgts</string>
+    <string name="on">Ieslēgts</string>
+    <string name="selected">Atlasīts</string>
+    <string name="switch_role">Slēdzis</string>
+    <string name="tab">Cilne</string>
+    <string name="template_percent">Procenti: %1$d.</string>
+</resources>

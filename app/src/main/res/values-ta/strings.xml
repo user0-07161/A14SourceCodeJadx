@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">செயலிலுள்ளது</string>
+    <string name="indeterminate">சில மட்டுமே தேர்ந்தெடுக்கப்பட்டுள்ளன</string>
+    <string name="not_selected">தேர்ந்தெடுக்கப்படவில்லை</string>
+    <string name="off">முடக்கப்பட்டுள்ளது</string>
+    <string name="on">இயக்கப்பட்டுள்ளது</string>
+    <string name="selected">தேர்ந்தெடுக்கப்பட்டுள்ளது</string>
+    <string name="switch_role">மாற்றுதல்</string>
+    <string name="tab">பிரிவு</string>
+    <string name="template_percent">%1$d சதவீதம்.</string>
+</resources>

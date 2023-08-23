@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Үргэлжилж байна</string>
+    <string name="indeterminate">Хэсэгчлэн тэмдэглэсэн</string>
+    <string name="not_selected">Сонгоогүй</string>
+    <string name="off">Унтраалттай</string>
+    <string name="on">Асаалттай</string>
+    <string name="selected">Сонгосон</string>
+    <string name="switch_role">Сэлгэх</string>
+    <string name="tab">Таб</string>
+    <string name="template_percent">%1$d хувь.</string>
+</resources>

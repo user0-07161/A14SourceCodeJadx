@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">У працэсе</string>
+    <string name="indeterminate">Выбрана часткова</string>
+    <string name="not_selected">Не выбрана</string>
+    <string name="off">Выключана</string>
+    <string name="on">Уключана</string>
+    <string name="selected">Выбрана</string>
+    <string name="switch_role">Пераключальнік</string>
+    <string name="tab">Укладка</string>
+    <string name="template_percent">Працэнтаў: %1$d.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Abian</string>
+    <string name="indeterminate">Erdi-markatuta</string>
+    <string name="not_selected">Hautatu gabe</string>
+    <string name="off">Desaktibatuta</string>
+    <string name="on">Aktibatuta</string>
+    <string name="selected">Hautatuta</string>
+    <string name="switch_role">Aldatu</string>
+    <string name="tab">Fitxa</string>
+    <string name="template_percent">Ehuneko %1$d.</string>
+</resources>

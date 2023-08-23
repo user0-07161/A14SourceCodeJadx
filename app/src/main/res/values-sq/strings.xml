@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Në vazhdim</string>
+    <string name="indeterminate">Pjesërisht e shënuar</string>
+    <string name="not_selected">Nuk është zgjedhur</string>
+    <string name="off">Joaktiv</string>
+    <string name="on">Aktiv</string>
+    <string name="selected">Zgjedhur</string>
+    <string name="switch_role">Ndërro</string>
+    <string name="tab">Tab</string>
+    <string name="template_percent">%1$d për qind.</string>
+</resources>

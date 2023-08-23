@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">กำลังดำเนินการ</string>
+    <string name="indeterminate">เลือกบางส่วน</string>
+    <string name="not_selected">ไม่ได้เลือก</string>
+    <string name="off">ปิด</string>
+    <string name="on">เปิด</string>
+    <string name="selected">เลือกไว้</string>
+    <string name="switch_role">เปลี่ยน</string>
+    <string name="tab">แท็บ</string>
+    <string name="template_percent">%1$d เปอร์เซ็นต์</string>
+</resources>

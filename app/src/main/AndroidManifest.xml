@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="12" android:versionName="1.0" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.android.egg" platformBuildVersionCode="34" platformBuildVersionName="14">
+    <uses-sdk android:minSdkVersion="34" android:targetSdkVersion="34"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.SUBSTITUTE_NOTIFICATION_APP_NAME"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.BIND_CONTROLS"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <permission android:name="com.android.egg.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.android.egg.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+    <application android:label="@string/app_name" android:icon="@drawable/android14_patch_adaptive" android:extractNativeLibs="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:usesNonSdkApi="true">
+        <activity android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen" android:label="@string/u_egg_name" android:icon="@drawable/android14_patch_adaptive" android:name="com.android.egg.landroid.MainActivity" android:exported="true" android:configChanges="density|screenSize|screenLayout|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="com.android.internal.category.PLATLOGO"/>
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/QuaresTheme" android:label="@string/q_egg_name" android:icon="@drawable/q_icon" android:name="com.android.egg.quares.QuaresActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/AppTheme" android:label="@string/p_egg_name" android:icon="@drawable/p_icon" android:name="com.android.egg.paint.PaintActivity" android:exported="true" android:configChanges="screenSize|uiMode|orientation|keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:theme="@android:style/Theme.Material.NoActionBar" android:label="@string/app_name" android:name="com.android.egg.neko.NekoLand" android:exported="true">
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE_PREFERENCES"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:name="com.android.egg.neko.NekoService" android:permission="android.permission.BIND_JOB_SERVICE" android:enabled="true" android:exported="true"/>
+        <activity android:theme="@android:style/Theme.Material.Light.Dialog.NoActionBar" android:name="com.android.egg.neko.NekoLockedActivity" android:exported="true" android:excludeFromRecents="true" android:showOnLockScreen="true"/>
+        <activity android:theme="@android:style/Theme.NoDisplay" android:name="com.android.egg.ComponentActivationActivity" android:exported="true" android:excludeFromRecents="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:label="@string/default_tile_name" android:icon="@drawable/stat_icon" android:name="com.android.egg.neko.NekoTile" android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" android:enabled="false" android:exported="true">
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE"/>
+            </intent-filter>
+        </service>
+        <service android:label="@string/r_egg_name" android:icon="@drawable/ic_fullcat_icon" android:name="com.android.egg.neko.NekoControlsService" android:permission="android.permission.BIND_CONTROLS" android:enabled="false" android:exported="true">
+            <intent-filter>
+                <action android:name="android.service.controls.ControlsProviderService"/>
+            </intent-filter>
+        </service>
+        <provider android:name="androidx.core.content.FileProvider" android:exported="false" android:authorities="com.android.egg.fileprovider" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/filepaths"/>
+        </provider>
+        <activity android:theme="@android:style/Theme.Material.Wallpaper.NoTitleBar" android:label="@string/s_egg_name" android:name="com.android.egg.widget.PaintChipsActivity" android:enabled="false" android:exported="true" android:configChanges="screenSize|uiMode|orientation|keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <receiver android:label="@string/s_egg_name" android:name="com.android.egg.widget.PaintChipsWidget" android:enabled="false" android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/paint_chips_widget_info"/>
+        </receiver>
+        <uses-library android:name="androidx.window.extensions" android:required="false"/>
+        <uses-library android:name="androidx.window.sidecar" android:required="false"/>
+        <provider android:name="androidx.startup.InitializationProvider" android:exported="false" android:authorities="com.android.egg.androidx-startup">
+            <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+        </provider>
+        <receiver android:name="androidx.profileinstaller.ProfileInstallReceiver" android:permission="android.permission.DUMP" android:enabled="true" android:exported="true" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

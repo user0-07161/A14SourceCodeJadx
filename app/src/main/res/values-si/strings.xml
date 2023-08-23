@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">ප්‍රගතියේ පවතී</string>
+    <string name="indeterminate">අඩ වශයෙන් ලකුණු කළ</string>
+    <string name="not_selected">තෝරා නැත</string>
+    <string name="off">ක්‍රියාවිරහිතයි</string>
+    <string name="on">ක්‍රියාත්මකයි</string>
+    <string name="selected">තෝරන ලදි</string>
+    <string name="switch_role">මාරු කරන්න</string>
+    <string name="tab">ටැබය</string>
+    <string name="template_percent">සියයට %1$d.</string>
+</resources>

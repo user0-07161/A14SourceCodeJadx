@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">[Îñ þŕöĝŕéšš one two]</string>
+    <string name="indeterminate">[Þåŕţîåļļý çĥéçķéð one two three]</string>
+    <string name="not_selected">[Ñöţ šéļéçţéð one two]</string>
+    <string name="off">[Öƒƒ one]</string>
+    <string name="on">[Öñ one]</string>
+    <string name="selected">[Šéļéçţéð one two]</string>
+    <string name="switch_role">[Šŵîţçĥ one two]</string>
+    <string name="tab">[Ţåɓ one]</string>
+    <string name="template_percent">[%1$d þéŕçéñţ. one two]</string>
+</resources>

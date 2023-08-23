@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emerald">#3ddc84</color>
+    <color name="navy">#073042</color>
+    <color name="paint_color">#ff000000</color>
+    <color name="paper_color">#ffffffff</color>
+    <color name="pixel_off">#ffffff</color>
+    <color name="pixel_on">#000000</color>
+    <color name="q_clue_bg">@color/tan</color>
+    <color name="q_clue_bg_correct">@color/emerald</color>
+    <color name="q_clue_text">@color/navy</color>
+    <color name="q_icon_fg">@color/emerald</color>
+    <color name="red">#f8c734</color>
+    <color name="tan">#eff7cf</color>
+    <color name="toolbar_bg_color">#ffdddddd</color>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Bezig</string>
+    <string name="indeterminate">Gedeeltelijk aangevinkt</string>
+    <string name="not_selected">Niet geselecteerd</string>
+    <string name="off">Uit</string>
+    <string name="on">Aan</string>
+    <string name="selected">Geselecteerd</string>
+    <string name="switch_role">Overschakelen</string>
+    <string name="tab">Tabblad</string>
+    <string name="template_percent">%1$d procent.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">درحال انجام</string>
+    <string name="indeterminate">برخی موارد علامت‌گذاری شده است</string>
+    <string name="not_selected">انتخاب‌نشده</string>
+    <string name="off">خاموش</string>
+    <string name="on">روشن</string>
+    <string name="selected">انتخاب شد</string>
+    <string name="switch_role">کلید</string>
+    <string name="tab">برگه</string>
+    <string name="template_percent">%1$d درصد.</string>
+</resources>

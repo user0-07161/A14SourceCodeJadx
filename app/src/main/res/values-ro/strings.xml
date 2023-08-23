@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">În curs</string>
+    <string name="indeterminate">Bifată parțial</string>
+    <string name="not_selected">Neselectat</string>
+    <string name="off">Dezactivat</string>
+    <string name="on">Activat</string>
+    <string name="selected">Selectat</string>
+    <string name="switch_role">Comută</string>
+    <string name="tab">Filă</string>
+    <string name="template_percent">%1$d %%.</string>
+</resources>

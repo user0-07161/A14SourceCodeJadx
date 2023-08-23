@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">قيد التقدم</string>
+    <string name="indeterminate">تم وضع علامة في المربّع بشكل جزئي</string>
+    <string name="not_selected">غير محدّد</string>
+    <string name="off">غير مفعّل</string>
+    <string name="on">مفعّل</string>
+    <string name="selected">محدّد</string>
+    <string name="switch_role">تبديل</string>
+    <string name="tab">علامة تبويب</string>
+    <string name="template_percent">%1$d في المئة.</string>
+</resources>

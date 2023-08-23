@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Folyamatban</string>
+    <string name="indeterminate">Részlegesen ellenőrizve</string>
+    <string name="not_selected">Nincs kijelölve</string>
+    <string name="off">Ki</string>
+    <string name="on">Be</string>
+    <string name="selected">Kijelölve</string>
+    <string name="switch_role">Kapcsoló</string>
+    <string name="tab">Lap</string>
+    <string name="template_percent">%1$d százalék.</string>
+</resources>

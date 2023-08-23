@@ -1,0 +1,1 @@
+task ':compose:material:material:writeVersionFile' property 'version'

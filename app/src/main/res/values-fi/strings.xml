@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Kesken</string>
+    <string name="indeterminate">Osittain tarkistettu</string>
+    <string name="not_selected">Ei valittu</string>
+    <string name="off">Pois</string>
+    <string name="on">Päällä</string>
+    <string name="selected">Valittu</string>
+    <string name="switch_role">Vaihda</string>
+    <string name="tab">Välilehti</string>
+    <string name="template_percent">%1$d prosenttia</string>
+</resources>

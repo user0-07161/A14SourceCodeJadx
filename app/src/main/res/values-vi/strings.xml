@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Đang thực hiện</string>
+    <string name="indeterminate">Đã kiểm tra một phần</string>
+    <string name="not_selected">Chưa chọn</string>
+    <string name="off">Đang tắt</string>
+    <string name="on">Đang bật</string>
+    <string name="selected">Đã chọn</string>
+    <string name="switch_role">Chuyển</string>
+    <string name="tab">Thẻ</string>
+    <string name="template_percent">%1$d%%.</string>
+</resources>

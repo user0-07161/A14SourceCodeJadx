@@ -1,0 +1,574 @@
+Manifest-Version: 1.0
+Created-By: soong_zip
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 2mGXdpWIE5cS48HEqUi06rBw/ZwuwRKUhMLSZSyhigs=
+
+Name: DebugProbesKt.bin
+SHA-256-Digest: FYoZ65SqLz4vRZ22nuECdsc7lF3Wxfj8Ijzy2F4rXjM=
+
+Name: META-INF/activity-compose_release.kotlin_module
+SHA-256-Digest: 9nzESbXYt42R9eeX8Bjhx7RM0+pCLUKf7ZE+udMQyd0=
+
+Name: META-INF/activity-ktx_release.kotlin_module
+SHA-256-Digest: eRweR2sbCuHXtd52O/F1svzIpzdRcevFbF5okvH46dA=
+
+Name: META-INF/activity_release.kotlin_module
+SHA-256-Digest: er+u5kR6UsJ7946aLQbs/hikjw3U7rYj48cFzesxD7w=
+
+Name: META-INF/androidx.activity_activity-compose.version
+SHA-256-Digest: tABKFjS2jmtdGV62G81T3qdbWaAiGC/FbY9rxgX+2fc=
+
+Name: META-INF/androidx.activity_activity-ktx.version
+SHA-256-Digest: gCemH3e6C+uTdhopFAsUZltlS9hxUvLsl8b184U/lHk=
+
+Name: META-INF/androidx.activity_activity.version
+SHA-256-Digest: i/LSnCGjhMEwgLNE+bDmx6L4CwxHH+e3ld2uvWFXzWU=
+
+Name: META-INF/androidx.annotation_annotation-experimental.version
+SHA-256-Digest: zVhVycvv+bW2I4UKP6YeFjyXTG530pcUxOp2kdFuJYc=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA-256-Digest: WGhAFSfUNZxPdHzBoS8USnnSOWmxlIzVAhsq/Qc8d3Y=
+
+Name: META-INF/androidx.autofill_autofill.version
+SHA-256-Digest: 4BGOi43QDhIkSDpqadlpAKSgR/CDJMcL4diyQKLIr0I=
+
+Name: META-INF/androidx.compose.animation_animation-core.version
+SHA-256-Digest: ifIRYDDb0EfoO0VVQMLo3Vh7+yQ3/t7AU6jh/suLzPc=
+
+Name: META-INF/androidx.compose.animation_animation.version
+SHA-256-Digest: 8yta2P13/78qE3YTwkd7QrEOoLbzHOVEmSnVzc049tA=
+
+Name: META-INF/androidx.compose.foundation_foundation-layout.version
+SHA-256-Digest: /RloavQTr8kwAAJ7G27DugbrT4P3xRVURoi+O9dPqc4=
+
+Name: META-INF/androidx.compose.foundation_foundation.version
+SHA-256-Digest: gM92ZklJtWHcKnghHUbmEavKpJWDT/d7C11Vtm5DwmI=
+
+Name: META-INF/androidx.compose.material_material-icons-core.version
+SHA-256-Digest: O/PI+IRrXeYlWVcxbpdAzoozubXrCWqXEZ0QR3VjFCY=
+
+Name: META-INF/androidx.compose.material_material-ripple.version
+SHA-256-Digest: BgKIP78JMnBVf3LCET6w5/aQZ368elPymdi9Y9AOdIo=
+
+Name: META-INF/androidx.compose.material_material.version
+SHA-256-Digest: d7eFgLv3tScvBHdCeKUVE+5KFrDwCWi7atjuGuJc/3Q=
+
+Name: META-INF/androidx.compose.runtime_runtime-saveable.version
+SHA-256-Digest: 1UBGprrukO9JbEOL24Pq7nYUk17ib6tmFCuG3skaEoU=
+
+Name: META-INF/androidx.compose.runtime_runtime.version
+SHA-256-Digest: v7uiNi+AowftimxoveUnr++BVisQAG+NCOmNpPnj5EU=
+
+Name: META-INF/androidx.compose.ui_ui-geometry.version
+SHA-256-Digest: 2EVM/eibW4YjWb5+VI+dTZGOdSMuqWHjmd9qo0j5/ac=
+
+Name: META-INF/androidx.compose.ui_ui-graphics.version
+SHA-256-Digest: 0DrrbeePAZkYbF8cncA0kHvUI9CwIbTO0ZWr3hjgJaE=
+
+Name: META-INF/androidx.compose.ui_ui-text.version
+SHA-256-Digest: SIFKuepK9v/UIxpCG/FyQUf+LXn1q8g1OXz3fNqRYDE=
+
+Name: META-INF/androidx.compose.ui_ui-tooling-preview.version
+SHA-256-Digest: 6UceQysYO3tj5mE+DRvH/Vn++oxWETcNDP05YHJylZI=
+
+Name: META-INF/androidx.compose.ui_ui-unit.version
+SHA-256-Digest: jRjKtGDT5nrIYyz7Ah3WuG1dhmBC1ynP0ylRBmM70pQ=
+
+Name: META-INF/androidx.compose.ui_ui-util.version
+SHA-256-Digest: BVe4RNf76dRfvQiqbtztYkTXf034FO6sgJDbBdaqU+Q=
+
+Name: META-INF/androidx.compose.ui_ui.version
+SHA-256-Digest: dwYO/YlP5Cc/d3UQDsLBuCkU15KY3LaBX9pROAEy7ug=
+
+Name: META-INF/androidx.core_core-ktx.version
+SHA-256-Digest: V9IX+ItomfZou8hzZkppqfjL3WTTzkr/MpJE5Ay1yGs=
+
+Name: META-INF/androidx.core_core.version
+SHA-256-Digest: V9IX+ItomfZou8hzZkppqfjL3WTTzkr/MpJE5Ay1yGs=
+
+Name: META-INF/androidx.customview_customview-poolingcontainer.version
+SHA-256-Digest: aqxvvZ/pHjUJDfG0WTn/4se0fjap9ykmYD/yPHTWr64=
+
+Name: META-INF/androidx.customview_customview.version
+SHA-256-Digest: eavpDKSBxmIResmIjc5njEKSZyOQ9xW8r/8utsyg1nM=
+
+Name: META-INF/androidx.emoji2_emoji2.version
+SHA-256-Digest: uAuZpRMeYG75Hq7gi1FHGC6CdXjlmEUS+goYBvYY/Ik=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA-256-Digest: wVwueMje4MuWGduylY6MPUJVWRbNN5syBnZiEg6rKdA=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA-256-Digest: 7gScLS7jjNOhod9r4Gu0x2kt/gZ1q4obakem3jddo/c=
+
+Name: META-INF/androidx.lifecycle_lifecycle-process.version
+SHA-256-Digest: 7gScLS7jjNOhod9r4Gu0x2kt/gZ1q4obakem3jddo/c=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version
+SHA-256-Digest: 7gScLS7jjNOhod9r4Gu0x2kt/gZ1q4obakem3jddo/c=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: 7gScLS7jjNOhod9r4Gu0x2kt/gZ1q4obakem3jddo/c=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version
+SHA-256-Digest: 7gScLS7jjNOhod9r4Gu0x2kt/gZ1q4obakem3jddo/c=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.versi
+ on
+SHA-256-Digest: 7gScLS7jjNOhod9r4Gu0x2kt/gZ1q4obakem3jddo/c=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA-256-Digest: 7gScLS7jjNOhod9r4Gu0x2kt/gZ1q4obakem3jddo/c=
+
+Name: META-INF/androidx.profileinstaller_profileinstaller.version
+SHA-256-Digest: HH5CzCzxYM0lUI/g0ldo42Tihlp386IcBXS1JUrh8Vo=
+
+Name: META-INF/androidx.recyclerview_recyclerview.version
+SHA-256-Digest: zVhVycvv+bW2I4UKP6YeFjyXTG530pcUxOp2kdFuJYc=
+
+Name: META-INF/androidx.savedstate_savedstate-ktx.version
+SHA-256-Digest: YKKgBC4ecRkY54jJhg8PxdAdW3puqvgbtYOInSxNdj8=
+
+Name: META-INF/androidx.savedstate_savedstate.version
+SHA-256-Digest: YKKgBC4ecRkY54jJhg8PxdAdW3puqvgbtYOInSxNdj8=
+
+Name: META-INF/androidx.startup_startup-runtime.version
+SHA-256-Digest: 5aRD76NA2jZqgQOcN3+k+xaViYL+MvOWlWRE8NaPXXg=
+
+Name: META-INF/androidx.tracing_tracing.version
+SHA-256-Digest: AlUsFUuWY5aHIO3AeRZPsx+TfJZBkiaYUcMoRMq3JLo=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA-256-Digest: aJlh2UWnR9mF5VrFLvT9RD0XE8NHATPXftk/CscN5/o=
+
+Name: META-INF/androidx.window.extensions.core_core.version
+SHA-256-Digest: wVwueMje4MuWGduylY6MPUJVWRbNN5syBnZiEg6rKdA=
+
+Name: META-INF/androidx.window_window.version
+SHA-256-Digest: aJlh2UWnR9mF5VrFLvT9RD0XE8NHATPXftk/CscN5/o=
+
+Name: META-INF/animation-core_release.kotlin_module
+SHA-256-Digest: iimbXkn28sj++aqw7ps8HgSwnmTxE9Q33B5Y1ynTqfU=
+
+Name: META-INF/animation_release.kotlin_module
+SHA-256-Digest: PVlX5HMmeZWVoAIL2WUdXyyH02Att9icooP9KBPJzWA=
+
+Name: META-INF/annotation-experimental_release.kotlin_module
+SHA-256-Digest: eP36jn6wfT5tnLNA2j9PXYOqftuczm0zUNk6RDqiEA8=
+
+Name: META-INF/annotation.kotlin_module
+SHA-256-Digest: eP36jn6wfT5tnLNA2j9PXYOqftuczm0zUNk6RDqiEA8=
+
+Name: META-INF/autofill_release.kotlin_module
+SHA-256-Digest: MMyHpvLaCuVjC1zIepdXujS/aFCkiQTfG4ZT1Twf5R4=
+
+Name: META-INF/collection.kotlin_module
+SHA-256-Digest: UEYb33zfeFcfk56vWwGr06FbH9FZvT3EwLmmBqcT7Ac=
+
+Name: META-INF/com.android.tools/proguard/coroutines.pro
+SHA-256-Digest: JgC1ddA7LyTpfpRIIMrS93kkdcEq/6WN21Ml/oGosXg=
+
+Name: META-INF/com.android.tools/r8-from-1.6.0/coroutines.pro
+SHA-256-Digest: niNKUNClV8ncbSmc1NiEPGLAg+tX5wz7gmCxqCbhZNw=
+
+Name: META-INF/com.android.tools/r8-upto-3.0.0/coroutines.pro
+SHA-256-Digest: qrEEhZZ1YXEgyVPdsPZ1QVoICXKFimN/KrsXpEF/vss=
+
+Name: META-INF/com.android.tools/r8/coroutines.pro
+SHA-256-Digest: SppNG0KrsrsDH+Dkve85uTxYxLt4n6GA30/F3fGuy9E=
+
+Name: META-INF/core-ktx_release.kotlin_module
+SHA-256-Digest: 24OfAqr96IaTKgLEEz5h7woqAABdN2TKpfWAP368Ar4=
+
+Name: META-INF/core_release.kotlin_module
+SHA-256-Digest: eP36jn6wfT5tnLNA2j9PXYOqftuczm0zUNk6RDqiEA8=
+
+Name: META-INF/customview-poolingcontainer_release.kotlin_module
+SHA-256-Digest: GEGjj09AHplBw+A4KukXdqxs6HwLhEDEBbAOQ5P92vI=
+
+Name: META-INF/external__kotlinx.atomicfu__android_common__kotlinx_ato
+ micfu.kotlin_module
+SHA-256-Digest: o2s2CwI9vFvOL3B/ji6yCFeJ8tVl5UDDitnqw2gyLg4=
+
+Name: META-INF/external__kotlinx.coroutines__android_common__kotlinx_c
+ oroutines.kotlin_module
+SHA-256-Digest: qUN0dKXzFXX8g61Ltmed8opti1ETkvyV5SvzZ3QYw3M=
+
+Name: META-INF/external__kotlinx.coroutines__android_common__kotlinx_c
+ oroutines_android.kotlin_module
+SHA-256-Digest: ya1K//7i8wSPxGTElq3wbY78F8+yvQsXttYT1INTjm0=
+
+Name: META-INF/foundation-layout_release.kotlin_module
+SHA-256-Digest: DU3VqTcOuRSCM5mhrOsr+W/KJmdkydjIEEuU+EOQygw=
+
+Name: META-INF/foundation_release.kotlin_module
+SHA-256-Digest: kFzFJEH84YOEEb+O4FpihQztm6ccoZKDW+zCbIJdFB4=
+
+Name: META-INF/frameworks__base__packages__EasterEgg__android_common__
+ EasterEgg.kotlin_module
+SHA-256-Digest: WZgKcMWR+ygQ5h+pdv1iOHDz/FL6ovIwRO0+ZzEfFFI=
+
+Name: META-INF/kotlin-project-structure-metadata.json
+SHA-256-Digest: utFe6W8JBEb/6I3LA82V5+lBIZ2e2rBladmFY/vC1jE=
+
+Name: META-INF/kotlin-stdlib-jdk7.kotlin_module
+SHA-256-Digest: hvn5G2eyMmUv3uLhndt6MccgTIb0z8K0K1GvYydMnMA=
+
+Name: META-INF/kotlin-stdlib-jdk8.kotlin_module
+SHA-256-Digest: aV01J6mVffS8m0Ux+4+2mWDAIZ/PMZ27LZsWGboFYl8=
+
+Name: META-INF/kotlin-stdlib.kotlin_module
+SHA-256-Digest: brOKM3XPVnfjxzdc7eKQyeCE8WGhMF5sj4qfbfj45ao=
+
+Name: META-INF/lifecycle-runtime-ktx_release.kotlin_module
+SHA-256-Digest: VEdZaSsjZd5CHNQAjcsYBhAY3C47ZRhIKF4D8cvXWCY=
+
+Name: META-INF/lifecycle-viewmodel-ktx_release.kotlin_module
+SHA-256-Digest: MyzHLT8YDLhFZuCErgSVo0iykKO53WyefTqqr7MlPbs=
+
+Name: META-INF/lifecycle-viewmodel-savedstate_release.kotlin_module
+SHA-256-Digest: vS7m5n8quob87h0B3/DRdqsKWHMMMmtDrB+8o9UV2TQ=
+
+Name: META-INF/lifecycle-viewmodel_release.kotlin_module
+SHA-256-Digest: 8ml0nlGwa59hOlDXYRSPDdcX0atqEfbcH//wYdFu27Q=
+
+Name: META-INF/material-icons-core_release.kotlin_module
+SHA-256-Digest: 7YeDhBd5nqQ6DFaIWDeOnufEbHqGIRyM8lo4amQuM9o=
+
+Name: META-INF/material-ripple_release.kotlin_module
+SHA-256-Digest: RRCzICHwjBU3xspWT3mx4vDxdkOWTABOVlWKmvyfT1w=
+
+Name: META-INF/material_release.kotlin_module
+SHA-256-Digest: VHKmpfFnt1ZTPvbe0/T0318URyF2ZbldNswxNqiyBjY=
+
+Name: META-INF/maven/com.google.guava/listenablefuture/pom.properties
+SHA-256-Digest: GJ8FUgad4nSrDoBjPioI0/ExoaHQxF2zizNZqWY2Vq4=
+
+Name: META-INF/maven/com.google.guava/listenablefuture/pom.xml
+SHA-256-Digest: U4c8rya8HtilZ+psk5qyqqP0el4y1creld31CA0jI4o=
+
+Name: META-INF/maven/org.jetbrains/annotations/pom.properties
+SHA-256-Digest: llyJesFHP/hIZJrK4OuUCca5/Mh5QfaO0TkklHVzYps=
+
+Name: META-INF/maven/org.jetbrains/annotations/pom.xml
+SHA-256-Digest: llrrK+3/NpgZvd4b96CzuJuCR91pyIuGN112Fju4w5c=
+
+Name: META-INF/proguard/androidx-annotations.pro
+SHA-256-Digest: ZPsrYDbTv6tHn2FcOMKd/OSAccw1ey0GKnECDWReXJ0=
+
+Name: META-INF/proguard/coroutines.pro
+SHA-256-Digest: IEuJU3sTpus8oxe6bEmGo/2U3fxeUD410qyc5yYHlaI=
+
+Name: META-INF/recyclerview_release.kotlin_module
+SHA-256-Digest: eP36jn6wfT5tnLNA2j9PXYOqftuczm0zUNk6RDqiEA8=
+
+Name: META-INF/runtime-saveable_release.kotlin_module
+SHA-256-Digest: E3dB0KejO8UKXlJvscVGG5Xm5Rp66E8y7PFaO6QN8OM=
+
+Name: META-INF/runtime_release.kotlin_module
+SHA-256-Digest: BHzpoo2/KnM7nrHZLCRNemY5D1N1TQiuql0FquZsS/0=
+
+Name: META-INF/savedstate-ktx_release.kotlin_module
+SHA-256-Digest: LOaxYrwjVNW3B2RAw8dMET3MdiJJANye4AEXNQN/ZO8=
+
+Name: META-INF/savedstate_release.kotlin_module
+SHA-256-Digest: 2/5nWChj8TzfXxBYEJxvkYPegZDRwHj9QvHGk3NcnkE=
+
+Name: META-INF/services/kotlinx.coroutines.CoroutineExceptionHandler
+SHA-256-Digest: MSm47fbbB95vj/R2leIXfIu6Tu0pYtMIXHGeWsu1ijM=
+
+Name: META-INF/services/kotlinx.coroutines.internal.MainDispatcherFact
+ ory
+SHA-256-Digest: oep36o+T9Bkla25m8pcT+VDY1ukEQrYI2ICkgAO163I=
+
+Name: META-INF/ui-geometry_release.kotlin_module
+SHA-256-Digest: 4MXuWl8jR+A5XJw2K8cYusQN8MmSjsqG3fikuUEmnGI=
+
+Name: META-INF/ui-graphics_release.kotlin_module
+SHA-256-Digest: /O9c1Q36Y+PLbouC22fYV+FKedy/bGVR3o9/2PDSPzA=
+
+Name: META-INF/ui-text_release.kotlin_module
+SHA-256-Digest: kdNVPznNJjSjKV7ls5dL6TZ6OU9Qxqsr09Eg8dc5V20=
+
+Name: META-INF/ui-tooling-preview_release.kotlin_module
+SHA-256-Digest: ELf/VtusubGPgBDAQgtswFSynuzw3Iq+hzTBYkO8SSU=
+
+Name: META-INF/ui-unit_release.kotlin_module
+SHA-256-Digest: CMdWaTRzZI6QPVWXn6oZrplF9ZCuc6b5kG0PvJks6JM=
+
+Name: META-INF/ui-util_release.kotlin_module
+SHA-256-Digest: Ay7xL4/5Q9KeJWCd8FeosDBj2GXCoCa0cmYa2m16VFw=
+
+Name: META-INF/ui_release.kotlin_module
+SHA-256-Digest: 3Ak4AW8xsyV0t3WUqUgQO9OJXkNuHZc4t1sON25oyMc=
+
+Name: META-INF/window_release.kotlin_module
+SHA-256-Digest: kXVfgCeDX39vkUVSN4W4C1zowa/Z3rt6DW1ImpZlLSU=
+
+Name: classes.dex
+SHA-256-Digest: B8zoLKyllt2RpQxvyra2FeZwmYbXNYDqFQyHFhatJeQ=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA-256-Digest: 98k+cGfKErqbPZTG5UDkwjy2/djJr/cEtVPKumUPw1c=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA-256-Digest: U5uFwkA/bvBjgWGtmd97ESVkEulBEzXtLqOTGj79fHY=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA-256-Digest: WabWMrip9duibyponDhl4ZU1HffDwIqhZp/g35+euIM=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA-256-Digest: x2two9sezL5C6pGlNmfXZh7fxhVAnT1uV0tYQ7HioF4=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA-256-Digest: wSfpfs04WshY/lXpxRfIgPa/w9oKoyt41y+AYlhgMQM=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA-256-Digest: tZwbWppJHfeZ7uICrZGTdgCb1Pgi1+n895wgs1BQOFI=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA-256-Digest: 8AIcphQmJQ1rF+dt1fcyxZCM9n3K8zsEKaPq17GJQ4Y=
+
+Name: res/color-night-v8/toolbar_icon_color.xml
+SHA-256-Digest: mBA3iVEfzRU5eimK6Rv9D8pCpxetbLuTi0EMTjxn+GA=
+
+Name: res/color/toolbar_icon_color.xml
+SHA-256-Digest: YraYehljGSJjwlpGo5cC+W+Qfh1TLhhQL0JJq30HAkg=
+
+Name: res/drawable/android14_patch_adaptive.xml
+SHA-256-Digest: 8OjrO4wUrx5VSj7Xij1yVP3RjVa/d8No0A3i3+DmjaE=
+
+Name: res/drawable/android14_patch_adaptive_background.xml
+SHA-256-Digest: yQbIDCbAUt3Qo8mJ3+TViGrGhpwQk/P0gpfJrblXI2c=
+
+Name: res/drawable/android14_patch_adaptive_foreground.xml
+SHA-256-Digest: NCQHmpiYA/ZkXtnIZ9ajeT/OEpfwDE03nq8YSNkGmjU=
+
+Name: res/drawable/android14_patch_monochrome.xml
+SHA-256-Digest: HSSeXRCBW5EIXsyLZIN21Lt16Bcd1KxQFpOrPRvAsc8=
+
+Name: res/drawable/back.xml
+SHA-256-Digest: FJYm1sxoJBhIwSSYr0tOSLxZgEU8aKT1hcR2iAODiOc=
+
+Name: res/drawable/belly.xml
+SHA-256-Digest: y0tkYHRLCiT8giKHK2oPUqi3IVDgKIXx1krtQi3edQg=
+
+Name: res/drawable/body.xml
+SHA-256-Digest: uLG641rLgV2WqqZ+9T8U/0E00TLb4tUqXDHbAxDABkY=
+
+Name: res/drawable/bowtie.xml
+SHA-256-Digest: ffHhOXQERaqXv5NqVHnjyoxpzMoZ3oGQoUbUU3iC0Xg=
+
+Name: res/drawable/cap.xml
+SHA-256-Digest: dsF6pf8F8sw66Fx91sjnc5nifbk0M/6JluxwF6hkXZQ=
+
+Name: res/drawable/collar.xml
+SHA-256-Digest: OEXLT47NPbN5UpFhG/Kb9M6rKNCq1RW/5GTxwuTldF8=
+
+Name: res/drawable/face_spot.xml
+SHA-256-Digest: zIYyTsAilbt8ihgP7tR/fq6KJqTVxzZ1q+D+Z+ggqJU=
+
+Name: res/drawable/food_bits.xml
+SHA-256-Digest: PlrC5Ki0zg+YJXGPU/JMh68SSGutjxyi0fOfJW+K7bo=
+
+Name: res/drawable/food_chicken.xml
+SHA-256-Digest: Cc2A1cqkS/XKCuWNlNP02G8xblzG8fjkTA55Ca+LZxI=
+
+Name: res/drawable/food_cookie.xml
+SHA-256-Digest: 87KJ4P+aMHAYLjUqlXMmkVDfMDyLmA8I1DcEeqEr5RY=
+
+Name: res/drawable/food_dish.xml
+SHA-256-Digest: neBLiVQ+di7V3i1iNGNan/O3zXSx3ly5TNSMFC5FzM0=
+
+Name: res/drawable/food_sysuituna.xml
+SHA-256-Digest: +OvKtWSRiEmMppPLACQ0H4akooMNko6PrHv6fzybsRU=
+
+Name: res/drawable/foot1.xml
+SHA-256-Digest: tiU82yGo9cGTIkUYdEU8rdfRpomu+F0jJvqCIJzWa/4=
+
+Name: res/drawable/foot2.xml
+SHA-256-Digest: euPQkJftGqdBGXEhwINKYNOsRnkJoXuFLzegjmW6lJE=
+
+Name: res/drawable/foot3.xml
+SHA-256-Digest: UkmBOeDDROhlNoPH8iumRAnfAA+h/MC0dZDd+Nc74CU=
+
+Name: res/drawable/foot4.xml
+SHA-256-Digest: Kni+b2psd2stSZjrIH67vPm9GbHQ/qX+F1pOtNXT4Sg=
+
+Name: res/drawable/head.xml
+SHA-256-Digest: 3sIRSzJtSfL3DxvHfXUszEjJeF8vM3ucp7UA9K6hxwY=
+
+Name: res/drawable/ic_bowl.xml
+SHA-256-Digest: 7JFznmKMx9xNDVpkjzmHFQS/XK+1gB0H59LkOkIqzK8=
+
+Name: res/drawable/ic_clear.xml
+SHA-256-Digest: OkaLAAeht8anfBKrR/s3Z7gYgw2zNKG8ZyFupk4wvOM=
+
+Name: res/drawable/ic_close.xml
+SHA-256-Digest: Wawqz2MNgLGLMWKDiqzrfvZGWf7YY0TExU/vYf7jg7o=
+
+Name: res/drawable/ic_dropper.xml
+SHA-256-Digest: HnyKR7O4euemksiDzw8N82UZh/72P+H4/MHbWKwtGv0=
+
+Name: res/drawable/ic_foodbowl_filled.xml
+SHA-256-Digest: ZuFeb9Z01aymy3RusRsXqJnZtjgQXRLv8pAHmhgX9NM=
+
+Name: res/drawable/ic_fullcat_icon.xml
+SHA-256-Digest: WANEB9P4yB6vJK48RqzQ4LG9ekbxQ26ANzU+MHLiHrQ=
+
+Name: res/drawable/ic_hourglass.xml
+SHA-256-Digest: N8zCTnfv6VBwaCIJias5lzrhHT0Fp3UqYcgASfW+X+4=
+
+Name: res/drawable/ic_share.xml
+SHA-256-Digest: vAPgqXeLlXypcnsJllXeY2wxn4nJ7bx5p5nHiIZ9Y/w=
+
+Name: res/drawable/ic_toy_ball.xml
+SHA-256-Digest: AQTi/2oDcROzDsx5EWPuDlnIEpezNMkJhSr982freIs=
+
+Name: res/drawable/ic_toy_fish.xml
+SHA-256-Digest: goRMYDtexzsBfeXJaPtgLJAbEg0IHIv8a2edqIQVHOg=
+
+Name: res/drawable/ic_toy_laser.xml
+SHA-256-Digest: PcTp7xnlFynjVMRsy4VvC2yoBE/QxlBX/XCCBBde6iQ=
+
+Name: res/drawable/ic_toy_mouse.xml
+SHA-256-Digest: ZtujUS6A3Ez1BVypq7pFCCP58pUcQN9lI+Qxk9+yy+I=
+
+Name: res/drawable/ic_water.xml
+SHA-256-Digest: K+fA1BmJueymvfCTBByBAVnz546pl4mDOfTW+TQTC60=
+
+Name: res/drawable/ic_water_filled.xml
+SHA-256-Digest: T0Z3sgHYb7zZY+tWi3KEba2/3ldjzfH/4L+rOiY6W/0=
+
+Name: res/drawable/icon_bg.xml
+SHA-256-Digest: UiOZ/KML+9xkoag9HjW0AOfNQ9zHG2vjJ31Hl34XGXs=
+
+Name: res/drawable/left_ear.xml
+SHA-256-Digest: qO8e98eK8JLwrrBk1G0X+ac8XU7BsqVb45xlpTbldYg=
+
+Name: res/drawable/left_ear_inside.xml
+SHA-256-Digest: eFlg3NplniearYHckVvoYcHdD2eMq7zjLrQ6WTzBgdY=
+
+Name: res/drawable/left_eye.xml
+SHA-256-Digest: ijZKCn3Md72s4pNRZMFdbOqkM4FAYIoP1rKfEpRxf9U=
+
+Name: res/drawable/leg1.xml
+SHA-256-Digest: eihrCdeh78RaMIR1ShkBFxASG9fFpM/psw+Vic1YaDE=
+
+Name: res/drawable/leg2.xml
+SHA-256-Digest: xjgms/HuRhVPecJYRSt8rsq9W67ARv40JuX3FedwGUY=
+
+Name: res/drawable/leg2_shadow.xml
+SHA-256-Digest: P7g6oHQDxmo5icp+QDdXp2MN2MJtq8blNV8L8GfliZo=
+
+Name: res/drawable/leg3.xml
+SHA-256-Digest: UeVZXjTeqAt6FJJhfQYmPan9ZB2nzYvLKN5s1MyWjY4=
+
+Name: res/drawable/leg4.xml
+SHA-256-Digest: 01dgfNLTWXTfdhxGJ5gDvJrJKdsy8Q6HhgZahfU+UL0=
+
+Name: res/drawable/mouth.xml
+SHA-256-Digest: hHx+dBZO3ZE2qBQxiIZszMtybYlSworIhlSNUGljEkM=
+
+Name: res/drawable/nose.xml
+SHA-256-Digest: jpDB5f7zCiHnfGUZZ3R4+Onc47jKyHtdOoV0uRLOba4=
+
+Name: res/drawable/p.xml
+SHA-256-Digest: TvCWWXrHLYyT665MbUfqu3X0YQOI9Gm37wJUhxheV24=
+
+Name: res/drawable/p_icon.xml
+SHA-256-Digest: HBxXI0bXhRmCetcMjhPPWOR6qCSv8JA6jeSz5cY99JM=
+
+Name: res/drawable/pixel_bg.xml
+SHA-256-Digest: FPXkUtQ4Y4AlSXl7md2Bd1vZeQQyG9snEuYzEkZEED4=
+
+Name: res/drawable/q.xml
+SHA-256-Digest: Wjnjnqqg5Bvf2Tp/BOcXC2AR9G+h91aidY+0IdCocmw=
+
+Name: res/drawable/q_icon.xml
+SHA-256-Digest: nfrN3gKI6KvVBvrwZh7p0VOzv7RshIZpSk8BtdrlfNI=
+
+Name: res/drawable/q_smaller.xml
+SHA-256-Digest: mp5GKPxvusF0uHoeh1VfN/9sXmYny00CSCRt8jpfsxo=
+
+Name: res/drawable/right_ear.xml
+SHA-256-Digest: IUV3mAvvt3IcPZV6JTca5R8tabP2xMN4o+vYCDRsx2s=
+
+Name: res/drawable/right_ear_inside.xml
+SHA-256-Digest: 125ewkYgiFBsDl+PUOuuJPCL+KZ2SnQkIWRNyOhdJsI=
+
+Name: res/drawable/right_eye.xml
+SHA-256-Digest: 2iLtfREObaawR8zoLuAKQUjhwP/leF2ghIC4JGSOhcI=
+
+Name: res/drawable/roundrect.xml
+SHA-256-Digest: wiiIGbvLlMAKg4O1zkYOyJfD6+Dwl96tax6DtP0Gdas=
+
+Name: res/drawable/stat_icon.xml
+SHA-256-Digest: rZxuxh3dlCfVL4c6amCi5i/jSlyumLau6zxByzG1cmM=
+
+Name: res/drawable/tail.xml
+SHA-256-Digest: sw4Zf+qYrdfpyZ/ocFve1n+xGRNh8UoT9u3o1kA/7cc=
+
+Name: res/drawable/tail_cap.xml
+SHA-256-Digest: gOtGXNp3K8UvhrKly6494CdNRLmPSS/kjEPQvx/eq9o=
+
+Name: res/drawable/tail_shadow.xml
+SHA-256-Digest: Gn43E7jLcv8pH2zwOozWyaNPL1YJ8t59SpHZNsbLfKs=
+
+Name: res/drawable/toolbar_bg.xml
+SHA-256-Digest: TG9ejV+Sb3FQy8RnqGXFE1VaDM9hibVRyjV00966wtM=
+
+Name: res/drawable/toolbar_button_bg.xml
+SHA-256-Digest: OSu7hJT+QOALQw6JBgRc/NYQsWvCEjoLgF7HyMqwOXc=
+
+Name: res/layout/activity_paint.xml
+SHA-256-Digest: SGPXyKrBEddnfS4ljMRt7TRPodDuk3BKe9kQrxsrQW8=
+
+Name: res/layout/activity_quares.xml
+SHA-256-Digest: LGYrJuTASp9SgoPtJVlo3lQ+LfMVHF7I40HUrYrw0rA=
+
+Name: res/layout/brushes.xml
+SHA-256-Digest: aa0cJmxSEW/h8dz67yGLlmWE0C+qg0IR+Rb26Ch6gis=
+
+Name: res/layout/cat_view.xml
+SHA-256-Digest: V2js1bRtpybg51hyobQFZeJQ6TTh+ED0xltMaQ7m6QU=
+
+Name: res/layout/colors.xml
+SHA-256-Digest: aa0cJmxSEW/h8dz67yGLlmWE0C+qg0IR+Rb26Ch6gis=
+
+Name: res/layout/edit_text.xml
+SHA-256-Digest: 1UBXNdmrjjnTap6f4jiUt3VZNSToUOLU+BDccA0r1Y8=
+
+Name: res/layout/food_layout.xml
+SHA-256-Digest: MQZgABrNIbYkHBCrPccZUwbtfFV+idYcNzQ0sVJ/FpY=
+
+Name: res/layout/neko_activity.xml
+SHA-256-Digest: rtDwq2MejCKLoN21uaf+RinhKN5dEPb1SCXMCmW3/bY=
+
+Name: res/layout/paint_chip.xml
+SHA-256-Digest: RjHCoVcrEdpfClcxeZOJfNC25NnvLsc5jOt3gkReD1I=
+
+Name: res/layout/paint_chips_grid.xml
+SHA-256-Digest: STWkdSuYncuISciBuK+jhMZ40k+GGNfKPgbTTkczsB8=
+
+Name: res/layout/paint_chips_widget_preview.xml
+SHA-256-Digest: Rjbi38R+TmSbYPs5Skg68LN/EURl4FXDzY5a2VgS/Ec=
+
+Name: res/layout/toolbar.xml
+SHA-256-Digest: 6+GuDMqt74f1MhAwKHBClifLkOLo4DT5fZseJQOdwn4=
+
+Name: res/xml/filepaths.xml
+SHA-256-Digest: 9umDIyiq3kU1HGeWlkdRszDvPN2S+4yUaUTOyZpSJ5g=
+
+Name: res/xml/paint_chips_widget_info.xml
+SHA-256-Digest: /0dCZ7xHssBBIYdrjznLZCZnsld/e/8Rdr/F3Bcg8SA=
+
+Name: resources.arsc
+SHA-256-Digest: TGMvdHkNDiP4de4FY18Gmcsp2emW8+aC3CTyNsJOQL0=
+
+Name: stamp-cert-sha256
+SHA-256-Digest: HZwqAqk4Fv9ceuZPmq0Cwj3kncUUYg2xp61iTSqDZ5w=
+

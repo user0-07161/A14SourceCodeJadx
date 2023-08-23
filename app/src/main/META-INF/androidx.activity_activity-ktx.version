@@ -1,0 +1,1 @@
+task ':activity:activity-ktx:writeVersionFile' property 'version'

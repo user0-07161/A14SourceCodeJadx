@@ -1,0 +1,1 @@
+task ':tracing:tracing:writeVersionFile' property 'version'

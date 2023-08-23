@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">进行中</string>
+    <string name="indeterminate">部分选中</string>
+    <string name="not_selected">未选择</string>
+    <string name="off">已关闭</string>
+    <string name="on">已开启</string>
+    <string name="selected">已选择</string>
+    <string name="switch_role">开关</string>
+    <string name="tab">标签页</string>
+    <string name="template_percent">百分之 %1$d。</string>
+</resources>

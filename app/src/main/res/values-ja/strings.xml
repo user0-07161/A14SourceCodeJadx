@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">処理しています</string>
+    <string name="indeterminate">一部 ON</string>
+    <string name="not_selected">未選択</string>
+    <string name="off">オフ</string>
+    <string name="on">オン</string>
+    <string name="selected">選択済み</string>
+    <string name="switch_role">切り替える</string>
+    <string name="tab">タブ</string>
+    <string name="template_percent">%1$dパーセント。</string>
+</resources>

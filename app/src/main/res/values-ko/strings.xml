@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">진행 중</string>
+    <string name="indeterminate">일부 선택됨</string>
+    <string name="not_selected">선택되지 않음</string>
+    <string name="off">꺼짐</string>
+    <string name="on">켜짐</string>
+    <string name="selected">선택됨</string>
+    <string name="switch_role">스위치</string>
+    <string name="tab">탭</string>
+    <string name="template_percent">%1$d퍼센트</string>
+</resources>

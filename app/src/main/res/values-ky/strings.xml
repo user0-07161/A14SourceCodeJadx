@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Аткарылууда</string>
+    <string name="indeterminate">Жарым-жартылай текшерилди</string>
+    <string name="not_selected">Тандалган жок</string>
+    <string name="off">Өчүк</string>
+    <string name="on">Күйүк</string>
+    <string name="selected">Тандалды</string>
+    <string name="switch_role">Которгуч</string>
+    <string name="tab">Өтмөк</string>
+    <string name="template_percent">%1$d пайыз.</string>
+</resources>

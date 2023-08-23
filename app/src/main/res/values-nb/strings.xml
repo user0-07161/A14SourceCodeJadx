@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Pågår</string>
+    <string name="indeterminate">Delvis avmerket</string>
+    <string name="not_selected">Ikke valgt</string>
+    <string name="off">Av</string>
+    <string name="on">På</string>
+    <string name="selected">Valgt</string>
+    <string name="switch_role">Bryter</string>
+    <string name="tab">Fane</string>
+    <string name="template_percent">%1$d prosent.</string>
+</resources>

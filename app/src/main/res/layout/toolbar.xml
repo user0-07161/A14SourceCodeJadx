@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.egg.paint.CutoutAvoidingToolbar xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="left" android:orientation="horizontal" android:background="@drawable/toolbar_bg" android:layout_width="match_parent" android:layout_height="50dp" android:elevation="20dp">
+    <Space android:tag="cutoutLeft" android:layout_width="0dp" android:layout_height="match_parent"/>
+    <LinearLayout android:orientation="horizontal" android:tag="beforeCutout" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+        <ImageButton android:id="@+id/btnBrush" android:background="@drawable/toolbar_button_bg" android:layout_width="48dp" android:layout_height="match_parent" android:tint="@color/toolbar_icon_color" android:layout_weight="1"/>
+        <ImageButton android:id="@+id/btnColor" android:background="@drawable/toolbar_button_bg" android:layout_width="48dp" android:layout_height="match_parent" android:tint="@color/toolbar_icon_color" android:layout_weight="1"/>
+        <ImageButton android:id="@+id/btnSample" android:background="@drawable/toolbar_button_bg" android:layout_width="48dp" android:layout_height="match_parent" android:src="@drawable/ic_dropper" android:tint="@color/toolbar_icon_color" android:layout_weight="1"/>
+    </LinearLayout>
+    <Space android:tag="cutoutCenter" android:layout_width="0dp" android:layout_height="match_parent"/>
+    <LinearLayout android:orientation="horizontal" android:tag="afterCutout" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+        <ImageButton android:id="@+id/btnZen" android:background="@drawable/toolbar_button_bg" android:layout_width="48dp" android:layout_height="match_parent" android:src="@drawable/ic_hourglass" android:tint="@color/toolbar_icon_color" android:layout_weight="1"/>
+        <ImageButton android:id="@+id/btnClear" android:background="@drawable/toolbar_button_bg" android:layout_width="48dp" android:layout_height="match_parent" android:src="@drawable/ic_clear" android:tint="@color/toolbar_icon_color" android:layout_weight="1"/>
+    </LinearLayout>
+    <Space android:tag="cutoutRight" android:layout_width="0dp" android:layout_height="match_parent"/>
+</com.android.egg.paint.CutoutAvoidingToolbar>

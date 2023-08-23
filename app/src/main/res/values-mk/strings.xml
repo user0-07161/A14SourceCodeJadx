@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Во тек</string>
+    <string name="indeterminate">Делумно проверено</string>
+    <string name="not_selected">Не е избрано</string>
+    <string name="off">Исклучено</string>
+    <string name="on">Вклучено</string>
+    <string name="selected">Избрано</string>
+    <string name="switch_role">Прекинувач</string>
+    <string name="tab">Картичка</string>
+    <string name="template_percent">%1$d проценти.</string>
+</resources>

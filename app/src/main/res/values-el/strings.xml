@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Σε εξέλιξη</string>
+    <string name="indeterminate">Έγινε μερικός έλεγχος</string>
+    <string name="not_selected">Δεν έχει επιλεχθεί</string>
+    <string name="off">Ανενεργό</string>
+    <string name="on">Ενεργό</string>
+    <string name="selected">Επιλεγμένο</string>
+    <string name="switch_role">Εναλλαγή</string>
+    <string name="tab">Καρτέλα</string>
+    <string name="template_percent">%1$d τοις εκατό.</string>
+</resources>

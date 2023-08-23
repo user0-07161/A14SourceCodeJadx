@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">მუშავდება</string>
+    <string name="indeterminate">ნაწილობრივ შემოწმებულია</string>
+    <string name="not_selected">არ არის არჩეული</string>
+    <string name="off">გამორთული</string>
+    <string name="on">ჩართული</string>
+    <string name="selected">არჩეული</string>
+    <string name="switch_role">გადართვა</string>
+    <string name="tab">ჩანართი</string>
+    <string name="template_percent">%1$d პროცენტი.</string>
+</resources>

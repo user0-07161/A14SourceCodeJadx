@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Выполняется</string>
+    <string name="indeterminate">Отмечено частично</string>
+    <string name="not_selected">Не выбрано</string>
+    <string name="off">Отключено</string>
+    <string name="on">Включено</string>
+    <string name="selected">Выбрано</string>
+    <string name="switch_role">Переключатель</string>
+    <string name="tab">Вкладка</string>
+    <string name="template_percent">Процентов: %1$d.</string>
+</resources>

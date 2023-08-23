@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Poteka</string>
+    <string name="indeterminate">Delno potrjeno</string>
+    <string name="not_selected">Ni izbrano</string>
+    <string name="off">Izklopljeno</string>
+    <string name="on">Vklopljeno</string>
+    <string name="selected">Izbrano</string>
+    <string name="switch_role">Stikalo</string>
+    <string name="tab">Zavihek</string>
+    <string name="template_percent">%1$d odstotkov</string>
+</resources>

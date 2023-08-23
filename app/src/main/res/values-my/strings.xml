@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">ဆောင်ရွက်နေဆဲ</string>
+    <string name="indeterminate">တစ်ဝက်တစ်ပျက် စစ်ဆေးထားသည်</string>
+    <string name="not_selected">ရွေးမထားပါ</string>
+    <string name="off">ပိတ်</string>
+    <string name="on">ဖွင့်</string>
+    <string name="selected">ရွေးထားသည်</string>
+    <string name="switch_role">ပြောင်းရန်</string>
+    <string name="tab">တဘ်</string>
+    <string name="template_percent">%1$d ရာခိုင်နှုန်း။</string>
+</resources>

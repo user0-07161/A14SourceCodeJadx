@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">בתהליך</string>
+    <string name="indeterminate">מסומנת חלקית</string>
+    <string name="not_selected">לא נבחר</string>
+    <string name="off">כבוי</string>
+    <string name="on">פועל</string>
+    <string name="selected">נבחר</string>
+    <string name="switch_role">מתג</string>
+    <string name="tab">‏מקש Tab</string>
+    <string name="template_percent">%1$d אחוזים.</string>
+</resources>

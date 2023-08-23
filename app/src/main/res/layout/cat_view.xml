@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_horizontal" android:orientation="vertical" android:background="?android:attr/selectableItemBackgroundBorderless" android:paddingTop="8dp" android:paddingBottom="8dp" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?android:attr/listPreferredItemHeightSmall" android:paddingStart="?android:attr/listPreferredItemPaddingStart" android:paddingEnd="?android:attr/listPreferredItemPaddingEnd">
+    <FrameLayout android:layout_width="96dp" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@android:id/icon" android:padding="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter"/>
+        <LinearLayout android:layout_gravity="bottom" android:id="@+id/contextGroup" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@android:id/shareText" android:background="#40000000" android:padding="8dp" android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/ic_share" android:scaleType="fitCenter"/>
+            <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1"/>
+            <ImageView android:id="@android:id/closeButton" android:background="#40000000" android:padding="4dp" android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/ic_close" android:scaleType="fitCenter"/>
+        </LinearLayout>
+    </FrameLayout>
+    <TextView android:textAppearance="?android:attr/textAppearanceListItem" android:gravity="center" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</LinearLayout>

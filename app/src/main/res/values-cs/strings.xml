@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Probíhá</string>
+    <string name="indeterminate">Částečně zaškrtnuto</string>
+    <string name="not_selected">Nevybráno</string>
+    <string name="off">Vypnuto</string>
+    <string name="on">Zapnuto</string>
+    <string name="selected">Vybráno</string>
+    <string name="switch_role">Přepnout</string>
+    <string name="tab">Karta</string>
+    <string name="template_percent">%1$d procent.</string>
+</resources>

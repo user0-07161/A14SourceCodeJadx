@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Í vinnslu</string>
+    <string name="indeterminate">Hakað við að hluta til</string>
+    <string name="not_selected">Ekki valið</string>
+    <string name="off">Slökkt</string>
+    <string name="on">Kveikt</string>
+    <string name="selected">Valið</string>
+    <string name="switch_role">Skipta</string>
+    <string name="tab">Flipi</string>
+    <string name="template_percent">%1$d prósent.</string>
+</resources>

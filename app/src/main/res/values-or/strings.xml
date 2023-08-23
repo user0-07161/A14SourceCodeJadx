@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">ଚାଲିଛି</string>
+    <string name="indeterminate">ଆଶିଂକ ଭାବେ ଯାଞ୍ଚ କରାଯାଇଛି</string>
+    <string name="not_selected">ଚୟନ କରାଯାଇନାହିଁ</string>
+    <string name="off">ବନ୍ଦ ଅଛି</string>
+    <string name="on">ଚାଲୁ ଅଛି</string>
+    <string name="selected">ଚୟନିତ</string>
+    <string name="switch_role">ସ୍ୱିଚ କରନ୍ତୁ</string>
+    <string name="tab">ଟାବ୍</string>
+    <string name="template_percent">ଶତକଡ଼ା %1$d।</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">پیشرفت میں</string>
+    <string name="indeterminate">جزوی طور پر چیک کردہ</string>
+    <string name="not_selected">غیر منتخب کردہ</string>
+    <string name="off">آف ہے</string>
+    <string name="on">آن ہے</string>
+    <string name="selected">منتخب کردہ</string>
+    <string name="switch_role">سوئچ</string>
+    <string name="tab">ٹیب</string>
+    <string name="template_percent">%1$d فیصد۔</string>
+</resources>

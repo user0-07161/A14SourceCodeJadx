@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Kuyaqhubeka</string>
+    <string name="indeterminate">Kuhlolwe kancane</string>
+    <string name="not_selected">Ayikhethiwe</string>
+    <string name="off">Valiwe</string>
+    <string name="on">Vuliwe</string>
+    <string name="selected">Okukhethiwe</string>
+    <string name="switch_role">Shintsha</string>
+    <string name="tab">Ithebhu</string>
+    <string name="template_percent">%1$d amaphesenti.</string>
+</resources>

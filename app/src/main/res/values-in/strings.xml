@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Dalam proses</string>
+    <string name="indeterminate">Diperiksa sebagian</string>
+    <string name="not_selected">Tidak dipilih</string>
+    <string name="off">Nonaktif</string>
+    <string name="on">Aktif</string>
+    <string name="selected">Dipilih</string>
+    <string name="switch_role">Alihkan</string>
+    <string name="tab">Tab</string>
+    <string name="template_percent">%1$d persen.</string>
+</resources>

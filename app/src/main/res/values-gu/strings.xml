@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">પ્રક્રિયામાં છે</string>
+    <string name="indeterminate">આંશિક રીતે ચેક કરેલા વિકલ્પો</string>
+    <string name="not_selected">પસંદગી કરી નથી</string>
+    <string name="off">બંધ છે</string>
+    <string name="on">ચાલુ છે</string>
+    <string name="selected">પસંદગી કરી</string>
+    <string name="switch_role">સ્વિચ</string>
+    <string name="tab">ટૅબ</string>
+    <string name="template_percent">%1$d ટકા.</string>
+</resources>

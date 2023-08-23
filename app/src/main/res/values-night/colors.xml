@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paint_color">#ffffffff</color>
+    <color name="paper_color">#ff000000</color>
+    <color name="pixel_off">#000000</color>
+    <color name="pixel_on">#ffffff</color>
+    <color name="q_clue_bg">@color/navy</color>
+    <color name="q_clue_text">@color/tan</color>
+    <color name="toolbar_bg_color">#ff333333</color>
+</resources>

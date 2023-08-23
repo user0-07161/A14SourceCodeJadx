@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">በሂደት ላይ</string>
+    <string name="indeterminate">በከፊል የተፈተሸ</string>
+    <string name="not_selected">ያልተመረጡ</string>
+    <string name="off">ጠፍቷል</string>
+    <string name="on">በርቷል</string>
+    <string name="selected">ተመርጧል</string>
+    <string name="switch_role">ማብሪያ/ማጥፊያ</string>
+    <string name="tab">ትር</string>
+    <string name="template_percent">%1$d በመቶ።</string>
+</resources>

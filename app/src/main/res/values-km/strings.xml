@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">កំពុងដំណើរការ</string>
+    <string name="indeterminate">បានធីកខ្លះ</string>
+    <string name="not_selected">មិនបាន​ជ្រើសរើស</string>
+    <string name="off">បិទ</string>
+    <string name="on">បើក</string>
+    <string name="selected">បានជ្រើសរើស</string>
+    <string name="switch_role">ប៊ូតុង​បិទបើក</string>
+    <string name="tab">Tab</string>
+    <string name="template_percent">%1$d ភាគរយ។</string>
+</resources>

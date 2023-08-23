@@ -1,0 +1,15 @@
+package kotlinx.coroutines.scheduling;
+
+/* compiled from: go/retraceme 56a29ddcb1e7781e96a7f0eae9764fd95150a8d849b28fe37c764d7d19c0db72 */
+/* loaded from: classes.dex */
+final class TaskContextImpl implements TaskContext {
+    private final int taskMode;
+
+    public TaskContextImpl(int i) {
+        this.taskMode = i;
+    }
+
+    public final int getTaskMode() {
+        return this.taskMode;
+    }
+}

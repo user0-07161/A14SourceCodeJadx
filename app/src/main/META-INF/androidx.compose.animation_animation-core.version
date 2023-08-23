@@ -1,0 +1,1 @@
+task ':compose:animation:animation-core:writeVersionFile' property 'version'

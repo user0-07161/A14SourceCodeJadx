@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">En curs</string>
+    <string name="indeterminate">Marcat parcialment</string>
+    <string name="not_selected">No seleccionat</string>
+    <string name="off">Desactivat</string>
+    <string name="on">Activat</string>
+    <string name="selected">Seleccionat</string>
+    <string name="switch_role">Interruptor</string>
+    <string name="tab">Pestanya</string>
+    <string name="template_percent">%1$d per cent</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">Vyksta</string>
+    <string name="indeterminate">Iš dalies pažymėta</string>
+    <string name="not_selected">Nepasirinkta</string>
+    <string name="off">Išjungta</string>
+    <string name="on">Įjungta</string>
+    <string name="selected">Pasirinkta</string>
+    <string name="switch_role">Jungiklis</string>
+    <string name="tab">Tabuliavimo klavišas</string>
+    <string name="template_percent">Procentų: %1$d.</string>
+</resources>

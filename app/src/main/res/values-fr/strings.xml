@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">En cours</string>
+    <string name="indeterminate">Partiellement coché</string>
+    <string name="not_selected">Non sélectionné</string>
+    <string name="off">Désactivé</string>
+    <string name="on">Activé</string>
+    <string name="selected">Sélectionné</string>
+    <string name="switch_role">Changer</string>
+    <string name="tab">Onglet</string>
+    <string name="template_percent">%1$d pour cent.</string>
+</resources>

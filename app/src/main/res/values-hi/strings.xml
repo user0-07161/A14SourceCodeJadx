@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">जारी है</string>
+    <string name="indeterminate">कुछ विकल्पों को चुना गया</string>
+    <string name="not_selected">नहीं चुना गया</string>
+    <string name="off">बंद है</string>
+    <string name="on">चालू है</string>
+    <string name="selected">चुना गया</string>
+    <string name="switch_role">स्विच करें</string>
+    <string name="tab">टैब</string>
+    <string name="template_percent">%1$d प्रतिशत.</string>
+</resources>

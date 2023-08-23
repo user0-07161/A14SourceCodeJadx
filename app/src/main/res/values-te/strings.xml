@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_progress">ప్రోగ్రెస్‌లో ఉంది</string>
+    <string name="indeterminate">పాక్షికంగా ఎంచుకోబడింది</string>
+    <string name="not_selected">ఎంచుకోబడలేదు</string>
+    <string name="off">ఆఫ్‌లో ఉంది</string>
+    <string name="on">ఆన్‌లో ఉంది</string>
+    <string name="selected">ఎంచుకోబడింది</string>
+    <string name="switch_role">Switch</string>
+    <string name="tab">ట్యాబ్</string>
+    <string name="template_percent">%1$d శాతం.</string>
+</resources>

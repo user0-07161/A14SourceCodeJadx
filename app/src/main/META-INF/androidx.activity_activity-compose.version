@@ -1,0 +1,1 @@
+task ':activity:activity-compose:writeVersionFile' property 'version'
